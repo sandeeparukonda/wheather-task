@@ -1,0 +1,47 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  body {
+    background-color: #0077b6;
+    font-size: 1.6em;
+  }
+  
+  .currentTemp {
+    color: #adb5bd;
+  }
+  p {
+    color: #f5f5f5;
+  }
+  .back {
+    /* background-color: teal; */
+    margin: 0 auto;
+    width: 50%;
+  }
+  
+  iframe {
+    border: none;
+    width: 100%;
+  }
+  
+  ul {
+    list-style-type: none;
+  }
+  .spacing {
+    margin-right: 10px;
+  }
+  .border {
+    border-radius: 6px;
+    border: none;
+    padding: 10px;
+  }
+  .citiesFav {
+    border: none;
+    background-color: #0077b6;
+    cursor: pointer;
+  }
+  
+  button {
+    font-weight: 550;
+  }
